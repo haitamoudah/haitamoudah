@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Open%20to-Collab-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="open to collab" />
   <img src="https://komarev.com/ghpvc/?username=haitamoudah&style=for-the-badge&color=8AB4F8&label=PROFILE+VIEWS" alt="profile views" />
 </p>
-
 <p align="center">
   <a href="mailto:haitamoudah@gmail.com">
     <img src="https://img.shields.io/badge/Email-haitamoudah%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
@@ -19,12 +18,12 @@
   <a href="https://www.linkedin.com/in/haitamoudah">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
+  <a href="https://haitamoudah.com">
+    <img src="https://img.shields.io/badge/haitamoudah.com-visit-8AB4F8?style=for-the-badge&logo=&logoColor=white" alt="website" />
+  </a>
 </p>
-<br>
 
->
-> _"ship small, ship often. code that closes issues, not code that churns the repo."_
-
+<p align="center"><em>"ship small, ship often. code that closes issues, not code that churns the repo."</em></p>
 <br>
 
 ### 🛠 Tech Stack
